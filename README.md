@@ -1,6 +1,9 @@
 # kaleido-bot
 # ربات برای مولتی فارم پروژه Kaleido 
 
+لینک سایت برای ثبت نام 
+https://kaleidofinance.xyz/testnet?ref=YX1V2WLS
+
 #۲. نصب Node.js و npm
 دستورات زیر را اجرا کنید:
 ```
